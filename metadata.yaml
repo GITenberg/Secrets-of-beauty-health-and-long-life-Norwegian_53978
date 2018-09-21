@@ -1,0 +1,27 @@
+_repo: Secrets-of-beauty-health-and-long-life-Norwegian_53978
+_version: 0.0.1
+alternative_title: Secrets of beauty, health and long life. Norwegian
+creator:
+  author:
+    agent_name: Laynard, Boyd
+    gutenberg_agent_id: '47650'
+    url: http://www.gutenberg.org/2009/agents/47650
+description: ''
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53978'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Diet -- Health aspects'
+- !lcsh 'Health -- Popular works'
+- !lcsh 'Longevity'
+- !lcsh 'Beauty, Personal'
+- !lcsh 'Hygiene'
+- GITenberg
+title: Veien til Skjønhed, Sundhed og et Langt Liv
+url: http://www.gutenberg.org/ebooks/53978
